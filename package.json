@@ -1,0 +1,17 @@
+{
+  "name": "async-pipe",
+  "version": "1.0.0",
+  "description": "making async function for composing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compose",
+    "es6",
+    "javascript",
+    "async/await"
+  ],
+  "author": "sabareeshk",
+  "license": "ISC"
+}
