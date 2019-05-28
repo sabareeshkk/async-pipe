@@ -1,5 +1,5 @@
 {
-  "name": "async-pipe",
+  "name": "pipe-with-async",
   "version": "1.0.0",
   "description": "making async function for composing ",
   "main": "index.js",
