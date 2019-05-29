@@ -7,7 +7,8 @@
 
 const pipe = async (fns, initParam) => fns
   .reduce(async (result, job) => {
-    const response = await job(result);
+    const input = await result;
+    const response = await job(input);
     return response;
   }, initParam);
 
